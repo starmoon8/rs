@@ -1,1 +1,1 @@
-a-  /1 amd /2 Linux-only CLI application for OTP-style XOR encryption with Reed-Solomon error correction. In other words, if you upload an encrypted file to a cloud and it gets bit rot, it can self heal upon decryption. 
+a-  /1 and /2 Linux-only CLI application for OTP-style XOR encryption with Reed-Solomon error correction. In other words, if you upload an encrypted file to a cloud and it gets bit rot, it can self heal upon decryption. 
